@@ -1,16 +1,17 @@
-# Portofolio webpage
-My personal portfolio website built with HTML and CSS.  
+DESIGN A BASIC PORTFOLIO
+WEBSITE USING HTML AND CSS TO
+SHOWCASE A DEVELOPER’S
+PROJECTS.
+DELIVERABLE: A RESPONSIVE SINGLE-
+PAGE PORTFOLIO WITH NAVIGATION.
 
-It includes sections like Home, About, Projects, and Contact.  
+NAME: Akshay Mathapati
 
+INTERN 10: CT04DR750
 
-🛠️ Technologies Used
-- HTML5 --> for structuring the content
-- CSS3 --> for styling and responsiveness
-- Google Fonts (Open Sans) --> for typography
-- Git & GitHub --> for version control and hosting
-- GitHub Pages --> for live deployment
-  
+DOMAIN: FRONT END DEVELOPMENT
 
-Live Demo : view here ---> C:/Users/Akshay%20Mathapati/Downloads/Portofolio_webpage-main/Portofolio_webpage-main/index.html#contact
+MOURATIONS: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
 
